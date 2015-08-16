@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A 'branch' is different parts of a repository, in which part of the repository can be commited from these different branches. The default branch is usually 'master' however new branches can be created. Each branch also has it's own history of the commits it has made to the repository.
