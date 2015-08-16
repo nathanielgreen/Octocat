@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually for, in your own words
+The 'upstream' remote is usually used to fetch from an original repository that one may have forked or cloned. A user can create a new 'upstream' remote that can be 'push'ed to or 'fetch'ed from.
